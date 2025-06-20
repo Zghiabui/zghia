@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\NGHIAAAAA\\source\\repos\\PhongTranh\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A64E42-1748-45ED-8AAE-91EF9FFA72EF}|PhongTranh\\PhongTranh.csproj|c:\\users\\nghiaaaaa\\source\\repos\\phongtranh\\phongtranh\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A64E42-1748-45ED-8AAE-91EF9FFA72EF}|PhongTranh\\PhongTranh.csproj|solutionrelative:phongtranh\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A64E42-1748-45ED-8AAE-91EF9FFA72EF}|PhongTranh\\PhongTranh.csproj|c:\\users\\nghiaaaaa\\source\\repos\\phongtranh\\phongtranh\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A64E42-1748-45ED-8AAE-91EF9FFA72EF}|PhongTranh\\PhongTranh.csproj|solutionrelative:phongtranh\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A64E42-1748-45ED-8AAE-91EF9FFA72EF}|PhongTranh\\PhongTranh.csproj|c:\\users\\nghiaaaaa\\source\\repos\\phongtranh\\phongtranh\\models\\custumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A64E42-1748-45ED-8AAE-91EF9FFA72EF}|PhongTranh\\PhongTranh.csproj|solutionrelative:phongtranh\\models\\custumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\NGHIAAAAA\\source\\repos\\PhongTranh\\PhongTranh\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PhongTranh\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\NGHIAAAAA\\source\\repos\\PhongTranh\\PhongTranh\\Models\\Product.cs",
+              "RelativeToolTip": "PhongTranh\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T04:29:36.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Custumer.cs",
+              "DocumentMoniker": "C:\\Users\\NGHIAAAAA\\source\\repos\\PhongTranh\\PhongTranh\\Models\\Custumer.cs",
+              "RelativeDocumentMoniker": "PhongTranh\\Models\\Custumer.cs",
+              "ToolTip": "C:\\Users\\NGHIAAAAA\\source\\repos\\PhongTranh\\PhongTranh\\Models\\Custumer.cs",
+              "RelativeToolTip": "PhongTranh\\Models\\Custumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T04:29:23.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\NGHIAAAAA\\source\\repos\\PhongTranh\\PhongTranh\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "PhongTranh\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\NGHIAAAAA\\source\\repos\\PhongTranh\\PhongTranh\\Models\\Category.cs",
+              "RelativeToolTip": "PhongTranh\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T04:29:01.256Z",
+              "EditorCaption": ""
             }
           ]
         }
